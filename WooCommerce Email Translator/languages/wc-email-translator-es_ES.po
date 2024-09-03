@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_ES\n"
+
+msgid "Email Translator Settings"
+msgstr "Configuraciones del Traductor de Correos"
+
+msgid "Email Translator"
+msgstr "Traductor de Correos"
+
+msgid "Statistics"
+msgstr "Estadísticas"
+
+msgid "Email Statistics"
+msgstr "Estadísticas de Correos"
+
+msgid "Emails Sent"
+msgstr "Correos Enviados"
+
+msgid "Emails Confirmed"
+msgstr "Correos Confirmados"
+
+msgid "Default email content"
+msgstr "Contenido de correo predeterminado"
+
+msgid "Order Confirmation"
+msgstr "Confirmación de Pedido"
+
+msgid "Please confirm your order by clicking the following link:"
+msgstr "Por favor confirme su pedido haciendo clic en el siguiente enlace:"
+
+msgid "Order confirmed by customer"
+msgstr "Pedido confirmado por el cliente"

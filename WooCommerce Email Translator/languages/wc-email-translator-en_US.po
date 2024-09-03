@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Email Translator Settings"
+msgstr "Email Translator Settings"
+
+msgid "Email Translator"
+msgstr "Email Translator"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Email Statistics"
+msgstr "Email Statistics"
+
+msgid "Emails Sent"
+msgstr "Emails Sent"
+
+msgid "Emails Confirmed"
+msgstr "Emails Confirmed"
+
+msgid "Default email content"
+msgstr "Default email content"
+
+msgid "Order Confirmation"
+msgstr "Order Confirmation"
+
+msgid "Please confirm your order by clicking the following link:"
+msgstr "Please confirm your order by clicking the following link:"
+
+msgid "Order confirmed by customer"
+msgstr "Order confirmed by customer"
