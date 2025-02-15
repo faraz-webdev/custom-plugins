@@ -129,3 +129,4 @@ class WC_Email_Translator {
 }
 
 new WC_Email_Translator();
+
